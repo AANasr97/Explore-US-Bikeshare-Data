@@ -30,9 +30,3 @@ The program is divided into several functions:
 - `user_stats(df)`: This function displays statistics about the demographics of bike share users.
 
 The program also includes error handling to ensure that user input is valid, and provides the user with helpful prompts throughout the program.
-
-### Authors
-OpenAI - Initial work - OpenAI
-
-### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
